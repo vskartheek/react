@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Enable dark mode using Tailwind CSS */
+.dark {
+  background-color: #1a202c; /* Tailwind's dark background color */
+  color: #a0aec0; /* Tailwind's dark text color */
+}
